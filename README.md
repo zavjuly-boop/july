@@ -19,7 +19,7 @@ sklearn-пайплайн, вероятности калиброваны (sigmoid
 
 ## Инструкция использования приложения
 
-1. Перейти в браузере по ссылке https://valery88.streamlit.app;
+1. Перейти в браузере по ссылке https://zavjuly.streamlit.app;
 2. Выбрать сегмент клиента (loyal / sensitive / at_risk), размер
    (small / medium / large) и сценарий качества (baseline — норма,
    quality_decline — стресс сети, доля задержек 32 %);
