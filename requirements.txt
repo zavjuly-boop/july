@@ -1,3 +1,8 @@
-###### Requirements without Version Specifiers ######
-catboost
-scikit-learn
+###### Приложение web_app_v_01.py (Streamlit Community Cloud) ######
+# версии проверены с артефактом models/zua_model.pkl
+scikit-learn==1.9.1
+pandas>=2.2
+shap==0.52.0
+
+# для старого ноутбука по композитам (в приложении не используется):
+# catboost
